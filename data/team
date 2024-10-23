@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Dramane Doumbia",
+        "role": "CEO",
+        "image": "images/team/dramane.jpg"
+    },
+    {
+        "name": "Emily Carson",
+        "role": "Developer",
+        "image": "images/team/emily.jpg"
+    },
+    {
+        "name": "Josh Day",
+        "role": "Designer",
+        "image": "images/team/josh.jpg"
+    },
+    {
+        "name": "Zane DeVore",
+        "role": "VP of Operations",
+        "image": "images/team/zane.jpg"
+    }
+]

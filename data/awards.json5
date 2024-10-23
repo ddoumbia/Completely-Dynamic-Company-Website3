@@ -1,0 +1,14 @@
+[
+  {
+    "id": "award1",
+    "name": "Best Startup Award",
+    "description": "Awarded for outstanding performance in innovation and growth.",
+    "date": "2023-01-15"
+  },
+  {
+    "id": "award2",
+    "name": "Customer Service Excellence",
+    "description": "Recognized for exceptional customer service and support.",
+    "date": "2023-06-30"
+  }
+]
